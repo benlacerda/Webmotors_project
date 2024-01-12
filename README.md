@@ -5,7 +5,7 @@ Foram utilizadas a linguagem java para codificação e Astah UML para o diagrama
 
 ## Estrutura dos arquivos
 
--[Veiculo.java](https://github.com/benlacerda/Webmotors_project/blob/main/Veiculo.java): Classe-pai responsável por modelar as classes filhas Carro e Moto.
+- [Veiculo.java](https://github.com/benlacerda/Webmotors_project/blob/main/Veiculo.java): Classe-pai responsável por modelar as classes filhas Carro e Moto.
 - [Moto.java](https://github.com/benlacerda/Webmotors_project/blob/main/Moto.java): Classe que herda de Veiculo para modelar o objeto moto.
 - [Carro.java](https://github.com/benlacerda/Webmotors_project/blob/main/Carro.java): Classe que herda de Veiculo para modelar o objeto carro.
 - [Venda.java](https://github.com/benlacerda/Webmotors_project/blob/main/Venda.java): Classe responsável por modelar as vendas.
