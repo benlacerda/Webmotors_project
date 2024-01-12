@@ -1,15 +1,14 @@
-## Getting Started
+## Projeto Orientado a objetos baseado no WebMotors
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esse trabalho foi desenvolvido pelo aluno Benjamim Lacerda Santos, da Universidade de Brasília para a disciplina de Orientação a Objetos.
 
-## Folder Structure
+## Estrutura dos arquivos
 
-The workspace contains two folders by default, where:
+- `Veiculo.java`: Classe-pai responsável por modelar as classes filhas Carro e Moto.
+- `Moto`: Classe que herda de Veiculo para modelar o objeto moto.
+- `Carro`: Classe que herda de Veiculo para modelar o objeto carro.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
